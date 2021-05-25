@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleDatabaseExample</string>
+    <string name="enter_your_name_please">Enter your name please:</string>
+    <string name="enter_your_age">Enter your age:</string>
+    <string name="submit">Submit</string>
+    <string name="insert">Insert</string>
+    <string name="read">Read</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+</resources>
